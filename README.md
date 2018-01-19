@@ -5,19 +5,19 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 **Run:**
 1. Clone this repository
 
-    git clone ...
+        git clone https://github.com/Mirsait/TConverter.git
 
 2. Enter to project folder
 
-    cd TConverter
+        cd TConverter
 
 3. Install packages
 
-    npm install
+        npm install
 
 4. Start app
 
-    npm start
+        npm start
 
 App runs in development mode.
 
